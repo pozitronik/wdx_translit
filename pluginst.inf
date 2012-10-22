@@ -1,0 +1,7 @@
+[PluginInstall]
+Description=Translit - transliteration plugin for TC.
+Descriptionrus=Translit - плагин транслитерации для TC.
+Type=wdx
+File=wdx_translit.wdx
+DefaultDir=translit
+Readme=readme.txt
